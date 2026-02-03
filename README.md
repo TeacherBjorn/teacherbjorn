@@ -1,16 +1,25 @@
-## Hi there 👋
+# Velkommen
 
-<!--
-**TeacherBjorn/teacherbjorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Denne profilen brukes til å publisere undervisningsopplegg og faglige ressurser, primært rettet mot informasjonsteknologi og beslektede fagområder. Materialet er utviklet for bruk i undervisning, men kan også fritt benyttes, tilpasses og videreutvikles av andre.
 
-Here are some ideas to get you started:
+Målet er å dele praktiske, strukturerte og gjennomarbeidede opplegg som kan være til nytte for lærere, elever og andre interesserte. Innholdet oppdateres og forbedres fortløpende.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ta gjerne kontakt dersom du har spørsmål, innspill eller forslag til forbedringer. Bidrag, ideer og faglige diskusjoner er alltid velkomne.
+
+
+## Undervisningsopplegg
+
+### Utvikling
+
+### Brukerstøtte
+
+### Driftsstøtte
+
+- Introduksjon til linux (https://github.com/TeacherBjorn/linux-introduksjon) 
+
+### Annet
+
+### Hjemmelabbing
+
+
+
