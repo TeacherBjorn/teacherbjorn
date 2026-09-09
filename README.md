@@ -16,7 +16,7 @@ Ta gjerne kontakt dersom du har spørsmål, innspill eller forslag til forbedrin
 
 ### Driftsstøtte
 
-- [Introduksjon til linux] (https://github.com/TeacherBjorn/linux-introduksjon) 
+- [Introduksjon til linux](https://github.com/TeacherBjorn/linux-introduksjon) 
 
 ### Annet
 
