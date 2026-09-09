@@ -10,12 +10,13 @@ Ta gjerne kontakt dersom du har spørsmål, innspill eller forslag til forbedrin
 ## Undervisningsopplegg
 
 ### Utvikling
+- [Introduksjon av KI](https://github.com/TeacherBjorn/vg2-utvikling-ki) 
 
 ### Brukerstøtte
 
 ### Driftsstøtte
 
-- Introduksjon til linux (https://github.com/TeacherBjorn/linux-introduksjon) 
+- [Introduksjon til linux] (https://github.com/TeacherBjorn/linux-introduksjon) 
 
 ### Annet
 
